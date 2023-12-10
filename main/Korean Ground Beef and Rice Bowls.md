@@ -2,7 +2,7 @@
 
 Original Recipe: https://therecipecritic.com/korean-ground-beef-rice-bowls/#wprm-recipe-container-57311
 
-Servings: 4
+Servings: 2
 
 Prep time: 5 min.
 Cook time: 15 min.
