@@ -26,6 +26,6 @@ Total time: 45 min.
 6. Bake for 30-35 minutes or until a toothpick inserted into the center comes out clean.
 
 ## Notes:
-- Buttermilk substitute: Buttermilk adds flavor as well as helps this cornbread recipe rise nicely. If you don’t have buttermilk, place 1 tablespoon of lemon juice or white vinegar in a 1 cup measuring cup. Fill to 1 cup with milk and stir. Let rest 5 minutes and use in place of buttermilk.
-- Optional Additions: Add 1 cup corn kernels, 1 cup shredded cheddar cheese, or 1 finely diced jalapeno pepper to the batter before baking.
+- **Buttermilk substitute**: Buttermilk adds flavor as well as helps this cornbread recipe rise nicely. If you don’t have buttermilk, place 1 tablespoon of lemon juice or white vinegar in a 1 cup measuring cup. Fill to 1 cup with milk and stir. Let rest 5 minutes and use in place of buttermilk.
+- **Optional Additions**: Add 1 cup corn kernels, 1 cup shredded cheddar cheese, or 1 finely diced jalapeno pepper to the batter before baking.
 - Cornbread is great served with honey butter or for dipping into soups, stew, or chili.
