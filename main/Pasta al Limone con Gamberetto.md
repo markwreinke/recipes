@@ -35,7 +35,7 @@ Total time: 25 min.
 8. Top the pasta with some chopped parsley and serve warm.
 
 
-Notes:
+## Notes:
 10/12/2025 
 Cooked for the first time, attempted to double the recipe, which was too much for the big skillet. Got 7 servings.
 
