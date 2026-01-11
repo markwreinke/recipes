@@ -40,7 +40,7 @@ Total time: 1hr 15 min.
 
 
 ## Notes:
-### SUBSTITUTIONS:
+### Substitutions:
 If you don’t wish to use alcohol, use vegetable broth or water, then add 1-2 teaspoons of white wine vinegar.
 TIPS:
 
@@ -48,11 +48,24 @@ Rub the dried herbs between your fingers as you sprinkle them in to “awaken”
 The eggplant needs approximately 20 to 30 minutes to drain in the colander, so you’ll want to do that before chopping anything else. That amount of time gives you time to prep the remaining vegetables. 
 After browning the eggplant, yellow squash, and zucchini, remove them from the pot as quickly as possible. If left to sit in the oil, they will absorb it.
 Rub dried herbs between your fingers as you sprinkle them into the pot.  This helps to “wake up” the flavor of dried herbs and spices.
-MAKE AHEAD:
 
+### Make Ahead:
 Make as directed to the point of adding the fresh basil.  Cool, then refrigerate for 1-2 days for best quality.  (The ratatouille will keep in the refrigerator for 4-5 days.)  When needed, add 1/2 cup water, stir and gently reheat over medium-low heat.  Add the fresh basil when ready to serve.
 
-### FREEZER-FRIENDLY:
+### Freezer-Friendly:
 Make as directed, cool, and store in the freezer in an airtight container or individual containers for 2-3 months.  Thaw in the refrigerator and reheat on the stovetop or in the microwave.  Expect the vegetables to be softer.  This can’t be avoided unless you undercook the vegetables with freezing the ratatouille as your intent.
 
 ### Costs:
+- Eggplant: $1.42
+- Zucchini: $2.33
+- Squash: $2.92
+- Bay Leaf: $0.50
+- Diced Tomatoes: $1.90
+- Tomatoes: $4.34
+- Red Onion: $0.50
+- Peppers: $1.59
+- Wine: $1.50
+- Spices: $1.00
+- Garlic: $0.50
+
+Total: $18.50 Price per actual serving (total/4): $4.63
