@@ -55,7 +55,7 @@ Make as directed to the point of adding the fresh basil.  Cool, then refrigerate
 ### Freezer-Friendly:
 Make as directed, cool, and store in the freezer in an airtight container or individual containers for 2-3 months.  Thaw in the refrigerator and reheat on the stovetop or in the microwave.  Expect the vegetables to be softer.  This can’t be avoided unless you undercook the vegetables with freezing the ratatouille as your intent.
 
-### Costs:
+### 1/11/2026 Costs:
 - Eggplant: $1.42
 - Zucchini: $2.33
 - Squash: $2.92
