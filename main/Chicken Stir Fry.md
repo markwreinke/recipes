@@ -44,10 +44,10 @@ Total time: 20 min.
 ## Notes:
 - Reheat stirfry on top of the stove in a pan with a little oil.
 
-### 1/22/2026 Costs:
+### 1/22/2026 ~5 servings - Costs:
 (unadjusted)
 - Green Onions: $0.99
-- Pepper: $1.69
+- Red Bell Pepper: $1.69
 - Broccoli: $3.78
 - Matchstick carrots: $2.49
 - Bok Choy: $3.52
@@ -55,6 +55,25 @@ Total time: 20 min.
 - Sesame Seed: $6.29
 - Chicken Breast: $9.18
 - Soy Sauce: $3.49
+- Noodles: $5.98
 
 Adjusted:
-Total: $ Price per actual serving (total/4): $
+- Peanut Oil: ~$0.30
+- Chicken Breast: $9.18
+- Salt and Pepper: ~$0.05
+- Broccoli: $3.78
+- Matchstick carrots: ~$1.30
+- Red Bell Pepper: $1.69
+- Bok Choy: $3.52
+- Noodles: ~$3.00
+- Soy Sauce: ~$1.49
+- Chicken Stock: $1.00
+- Honey: ~$0.30
+- Brown Sugar: ~$0.50
+- Ground Ginger: ~$0.05
+- Garlic: ~$0.50
+- Cornstarch: ~$0.50
+- Green Onions: $0.99
+- Sesame Seed: ~$0.35
+  
+Total: $28.95 Price per actual serving (total/5): $5.79
