@@ -77,3 +77,6 @@ Adjusted:
 - Sesame Seed: ~$0.35
   
 Total: $28.95 Price per actual serving (total/5): $5.79
+
+1/30/2026
+- Try adding snow peas
