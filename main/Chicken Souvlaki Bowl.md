@@ -20,7 +20,7 @@ Total time: ? min.
 * Black pepper, 1 tsp
 
 #### Potatoes
-* Potatoes, 1200g diced
+* Potatoes, 2.65lbs diced
 * Olive oil spray, few sprays
 * Dried oregano, 2 tsp
 * Garlic powder, 1 tbsp
