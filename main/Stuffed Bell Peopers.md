@@ -1,6 +1,6 @@
 # Easy Stuffed Bell Peppers
 
-Original recipe: [[https://cafedelites.com/crispy-chicken-parmesan/](https://www.food.com/recipe/easy-stuffed-bell-peppers-447201)]([168684/chicken5R46mMMD0cmyf314rZGuqt8lVng0](https://www.food.com/recipe/easy-stuffed-bell-peppers-447201))
+Original recipe: [[https://cafedelites.com/crispy-chicken-parmesan/](https://www.food.com/recipe/easy-stuffed-bell-peppers-447201)]
 
 Servings: 6
 Total time: 1hr 15 min.
