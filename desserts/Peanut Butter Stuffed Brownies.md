@@ -2,10 +2,11 @@
 
 Original recipe: https://sallysbakingaddiction.com/peanut-butter-stuffed-brownies/
 
-Servings: 16-20 Brownies
-Prep time: 30 min.
-Cook time: 40 min.
-Total time: 1 hr 10 min.
+| Servings: | 16-20 Brownies |
+| :---------- | :---------- |
+| Prep time: | 30 min. |
+| Cook time: | 40 min. |
+| Total time: | 1 hr 10 min. |
 
 ## Indredients:
 ### Brownie Batter
