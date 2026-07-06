@@ -30,4 +30,5 @@ Total time:
 ## Mark's notes:
 7/5/2026: 
 - Created and cooked about 40 min on low heat, but using my own crushed tomatoes made following: https://thevirtualcaterer.com/easy-crushed-tomatoes-no-peeling-freezer/
-- Was too runny, and not tasting as good as I would like/sticking to pasta. I think I should've cooked longer, and reduced, or put the crushed tomatoes into the blender. Doubled the recipe, and it cost around $21.35.
+- Was too runny, and not tasting as good as I would like/sticking to pasta. I think I should've cooked longer, and reduced, or put the crushed tomatoes into the blender.
+- Doubled the recipe, and it cost around $21.35.
