@@ -53,7 +53,7 @@ Total time:
 1. Mix together 3 tbsp mayo, 2 tbsp sriracha, 1.5 tbsp unsweetened ketchup, the juice of half a lime, 1/4 tsp cayenne pepper, and 1/2 tsp powdered monkfrit.
 2. Mix well, taste, and add 2 tbsp of water to thin out the sauce if you wish.
 
-### Service:
+### Serving:
 - When you’re ready to eat, just assemble! I divided everything into 4 servings: I plated up 1 serving Kaizen lowcarb rice as the base, 4oz cooked chicken, a cup of slaw, drizzled some of the sauce, topped with fresh cilantro & sesame seeds.
 
 
