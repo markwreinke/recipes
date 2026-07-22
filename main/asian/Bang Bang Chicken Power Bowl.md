@@ -60,7 +60,7 @@ Total time:
 
 ## Notes:
 7/22/2026
-
+- Try replacing Mayo with greek yogurt
 
 Costs (unadjusted):
 - Lime: $0.49
