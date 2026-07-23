@@ -99,5 +99,6 @@ Costs (adjusted):
 - Sesame seeds: $0.10
 - Rice: $0.30 
 
-Total: $
-Price per actual serving (total/
+Total: $11.46
+
+Price per actual serving (total/ 3): $3.86
