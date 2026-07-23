@@ -65,14 +65,39 @@ Total time:
 Costs (unadjusted):
 - Lime: $0.49
 - Cabbage: $2.77
-- Carrot: $1.69
+- Carrot: $0.61
 - Soy Sauce: $1.99
 - Jalapeño: $0.32
 - Mayo: $2.49
 - Chicken: $10.12
 - Sesame Oil: $10.99
 - Olive Oil:
-- Cucumber: 
+- Cucumber: $1.58 
+- Monkfruit: $8.49
 
-Total: $73.08
-Price per actual serving (total/7): $10.44
+Costs (adjusted):
+- Lime: $0.49
+- Cabbage: $0.77
+- Carrot: $0.61
+- Soy Sauce: $0.40
+- Jalapeño: $0.32
+- Mayo: $0.30
+- Chicken: $4.05
+- Sesame Oil: $0.80
+- Olive oil: $0.30
+- Cucumber: $1.58
+- Salt: $0.02
+- Pepper: $0.02
+- Paprika: $0.10
+- Garlic powder: $0.10
+- Onion Powder: $0.10
+- Ketchup: $0.10
+- Siracha: $0.10
+- Cayenne powder: $0.10
+- Monkfruit: $0.50
+- Rice vinegar: $0.30
+- Sesame seeds: $0.10
+- Rice: $0.30 
+
+Total: $
+Price per actual serving (total/
